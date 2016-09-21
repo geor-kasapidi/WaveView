@@ -1,0 +1,16 @@
+PODS:
+  - WaveView (0.0.1)
+
+DEPENDENCIES:
+  - WaveView (from `../`)
+
+EXTERNAL SOURCES:
+  WaveView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WaveView: a3f91cbe6b145750053bbb7501b08a30bb7b16d3
+
+PODFILE CHECKSUM: e0db8afd67ebecab418ce624fef8e6b18d11f80c
+
+COCOAPODS: 1.0.1

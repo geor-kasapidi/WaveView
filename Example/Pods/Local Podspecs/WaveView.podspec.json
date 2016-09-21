@@ -1,0 +1,23 @@
+{
+  "name": "WaveView",
+  "version": "0.0.1",
+  "summary": "UIView subclass that reproduces the waveform effect seen in Siri on iOS 7",
+  "homepage": "https://github.com/geor-kasapidi/WaveView",
+  "license": "MIT",
+  "authors": {
+    "Geor Kasapidi": "geor.kasapidi@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/geor-kasapidi/WaveView.git",
+    "tag": "v0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Source",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ]
+}
